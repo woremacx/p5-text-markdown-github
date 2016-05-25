@@ -1,0 +1,6 @@
+Revision history for Perl extension Text::Markdown::Github.
+
+0.01  Thu May 26 00:13:36 2016
+	- original version; created by h2xs 1.23 with options
+		-A -n Text::Markdown::Github
+
